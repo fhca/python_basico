@@ -3,4 +3,4 @@ Instructor: Dr. Felipe Contreras
 Horario: viernes 13:00hrs
 
 ## Ejemplos vistos
-    20200424: 01..03
+    20200424: 00..01
